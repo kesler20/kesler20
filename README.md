@@ -1,5 +1,3 @@
-[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Decision%20Systems%20Engineering&fontSize=40&fontColor=ffffff&animation=fadeIn)](#)
-
 ## 👾 Hi there
 
 I'm a PhD Researcher working on autonomous systems, combining machine learning, optimisation, and software engineering to close the loop between data and outcomes.
